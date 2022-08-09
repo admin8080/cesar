@@ -1,0 +1,34 @@
+DAILY TIME RECORD
+Daily Time Recording System In PHP With Source Code
+July 5, 2022Carmelo Garcia3 Comments
+Project: Daily Time Recording  System in PHP
+-To download daily time recording system system project for free(Scroll Down)
+
+About Project
+Daily time recording System project is developed using PHP, CSS, HTML, and JavaScript. Talking about the project, it has all the essential features required for the management of company routines. This project contains only the admin’s side where he/she can add, edit, delete, view, search employees check-in and check-out time for the system record. The Admin plays the main role in the management of the system.
+
+About The System
+The system is simple and quite easy to use. The basic fundamental of this system is to manage the daily routine time of both companies and the school. Here you have to log in so that you can use the system. The admin can add and delete the check-in and check-out period. He can create employees record for the relative payroll also.
+
+To run this project you must have installed virtual server i.e XAMPP on your pc (for Windows). This Management System in PHP with source code is free to download, Use for educational purposes only! For the project demo, have a look at the video below.
+
+https://youtu.be/PSsxggGyRv0
+project demo
+How To Run??
+After Starting Apache and MySQL in XAMPP, follow the following steps
+
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+
+Now Connecting Database
+
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on databases tab
+6th Step: Create database naming “db_dtr” and then click on import tab
+7th Step: Click on browse file and select “db_dtr.sql”.
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/edmac/admin”
